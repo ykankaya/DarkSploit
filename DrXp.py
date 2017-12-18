@@ -29,7 +29,7 @@ time.sleep(1)
 os.system("cd banner;python2 banner1.py")
 print
 print
-print ""+N+"          =[ "+O+"DarkSploit v.1 by Deray"+N+"                         ]"
+print ""+N+"          =[ "+O+"DarkSploit v.1 by Deray"+N+"                               ]"
 print "   + -- --=[ 8 Exploits - 10 Scanners #Report ig : @yungreyyxrist  ]"
 print "   + -- --=[ 5 Post - 17 Virus  #Blog http://zumizec-com.waper.co/ ]"
 print "   + -- --=[ free darksploit trial -> http://zumizec-com.waper.co/ ]"
