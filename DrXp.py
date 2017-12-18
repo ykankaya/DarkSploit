@@ -27,6 +27,8 @@ O = '\033[0;33m' # Orange
 B = '\033[1;34m' #Blue
 time.sleep(1)
 os.system("cd banner;python2 banner1.py")
+print
+print
 print ""+N+"          =[ "+O+"DarkSploit v.1 by Deray"+N+"                ]"
 print "   + -- --=[ 8 Exploits - 10 Scanners #Report ig : @yungreyyxrist  ]"
 print "   + -- --=[ 5 Post - 17 Virus  #Blog http://zumizec-com.waper.co/ ]"
