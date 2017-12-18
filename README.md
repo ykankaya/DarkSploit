@@ -47,6 +47,9 @@ $ python2 DrXp.py
 #Finish
 <br>
 <br>
+U can update this program with command "darksploit update"
+<br>
+<br>
 if you have a bug is running this program?report bug on my instagram.
 <br>
 contact instagram : @yungreyyxrist
