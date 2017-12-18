@@ -42,7 +42,7 @@ if dr == "use exploit/power_dos":
 	print "target =>"+R+"",target
 	run = raw_input(""+N+"DrXp > ")
 	if run == "run":
-		os.system("python modules/hulk_attacks/hulk.py %s" % (target))
+		os.system("cd modules;cd hulk_attacks;python2 hulk.py %s" % (target))
 		print ""+B+"[*]"+N+" Job finished"
 		raw_input("press enter...")
 		restart_program()
