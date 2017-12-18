@@ -1,9 +1,11 @@
+import time
 # Set color
 R = '\033[31m' # Red
 N = '\033[1;37m' # White
 G = '\033[32m' # Green
 O = '\033[0;33m' # Orange
 B = '\033[1;34m' #Blue
+time.sleep(1)
 print ""+G+" ______________________________________________________________________________"
 print "|                                                                              |"
 print "| "+N+"                  DARKSPLOIT CYBER MISSILE COMMAND V.1      "+G+"                 |"
