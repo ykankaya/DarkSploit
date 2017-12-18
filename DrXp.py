@@ -703,7 +703,7 @@ elif dr == "show options":
 	print "use exploit/             <exploit name>"
 	print "use scanners/           <scanners name>"
 	print "make virus/              <virus name>"
-	print
+	print "darksploit update      update DarkSploit"
 	raw_input(""+G+"press enter...")
 	restart_program()
 elif dr == "show exploits":
