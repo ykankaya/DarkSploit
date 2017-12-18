@@ -1,4 +1,4 @@
-q#!/usr/bin/env python
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # TOOLS  NAME :  DropXploit
 # Coded by Programmer pemalas :'v
