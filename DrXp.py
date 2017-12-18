@@ -32,7 +32,7 @@ print
 print ""+N+"          =[ "+O+"DarkSploit v.1 by Deray"+N+"                                         ]"
 print "   + -- --=[ 8 Exploits - 10 Scanners 5 post - 17 virus                      ]"
 print "   + -- --=[ Blog http://zumizec-com.waper.co/ "+N+"- Reports ig @yungreyyxrist   ]"
-print "   + -- --=[ free darksploit trial "+R+"->"+O+" http://zumizec-com.waper.co/           ]"
+print "   + -- --=[ free darksploit trial  http://zumizec-com.waper.co/             ]"
 print
 dr = raw_input(""+N+"DrXp > ")
 time.sleep(2)
