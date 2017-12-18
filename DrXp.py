@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*-
 # TOOLS  NAME :  DropXploit
 # Coded by Programmer pemalas :'v
-# Author : LOoLzeC
+# Copyright : 2017 LOOLZEC
 # Coded by deray
-#kalo mao share atau recode hargain Copyright ya TOLOL! w cape bikin program lo tinggal reshare dan ninggalin jejak anjeng!1!1!1!
+# Change copyright can not make you real coder :)
 import os
 import sys
 import time
