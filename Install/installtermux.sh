@@ -5,6 +5,8 @@ pkg update
 echo "done..."
 pkg upgrade
 echo "done..."
+pkg install git
+echo "done..."
 pkg install wget
 echo "done..."
 pkg install python2
