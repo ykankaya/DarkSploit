@@ -685,7 +685,7 @@ elif dr == "make virus/on_windows_quiz":
 		sys.exit()
 elif dr == "use scanners/usr_pro_wordpress_auto_find":
 	print ""+N+"=> "+R+"set dorks"
-	os.system("cd modules;cd usr_pro_wordpress_auto_find;python userpro.py")
+	os.system("cd modules;cd usr_pro_wordpress_auto_find;python2 userpro.py")
 	print ""+B+"["+R+"*"+B+"]"+N+" Job finished..."
 	raw_input(""+G+"press enter...")
 	restart_program()
