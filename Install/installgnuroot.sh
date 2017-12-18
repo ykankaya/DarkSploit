@@ -1,6 +1,8 @@
 #!/bin/sh
 #GNU
 echo "installing..."
+apt-get install git
+echo "done..."
 apt-get update
 echo "done..."
 apt-get upgrade
