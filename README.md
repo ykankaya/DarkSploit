@@ -19,6 +19,8 @@ $ cd Install
 <br>
 $ sh installtermux.sh
 <br>
+$ pip2 install -r requirements.txt
+<br>
 $ cd ..
 <br>
 $ python2 DrXp.py
@@ -36,11 +38,15 @@ $ cd Install
 <br>
 $ sh installgnuroot.sh
 <br>
+$ pip2 install -r requirements.txt
+<br>
 $ cd ..
 <br>
 $ python2 DrXp.py
 <br>
 #Finish
 <br>
+<br>
+if you have a bug is running this program?report bug on my instagram.
 <br>
 contact instagram : @yungreyyxrist
