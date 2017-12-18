@@ -1,3 +1,4 @@
+import time
 # Set color
 R = '\033[31m' # Red
 N = '\033[1;37m' # White
