@@ -108,7 +108,7 @@ elif dr == "use exploit/cpanel_bruteforce":
 		sys.exit()
 elif dr == "use exploit/android_remote_acces":
 	print ""+N+" => now u can enter 'show options'"
-	os.system("cd modules;cd android;python android.py")
+	os.system("cd modules;cd android;python2 android.py")
 elif dr == "use exploit/joomla_com_hdflayer":
 	print "set target"
 	t = raw_input(""+N+"DrXp > ("+R+"joomla_com_hdflayer"+N+"): ")
@@ -265,7 +265,7 @@ elif dr == "use scanners/jomscan_v4":
 	rup = raw_input(""+N+"DrXp > ")
 	if rup == "run":
 		print ""+B+"[*]"+N+" Starting Attacks..."
-		os.system("cd modules;cd joomscan_v4/scan.py %s" % (ops))
+		os.system("cd modules;cd joomscan_v4;python2 scan.py %s" % (ops))
 		print ""+B+"[*]"+N+" Job finished"
 		raw_input("press enter...")
 		restart_program()
@@ -741,7 +741,7 @@ elif dr == "darksploit update":
 	print
 	print ""+N+"cloning newly updated..."
 	time.sleep(5)
-	os.system("cd ..;rm -rf DarkSploit;git clone https://github.com/LOoLzeC/DarkSploit;cd DarkSploit;python2 DrXp.py")
+	os.system("cd ..;rm -rf DarkSploit;git clone https://github.com/LOoLzeC/DarkSploit;cd ..;cd DarkSploit;python2 DrXp.py")
 elif dr == "show exploits":
 	print ""+N+""
 	print " EXPLOIT"
