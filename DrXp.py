@@ -26,7 +26,7 @@ G = '\033[32m' # Green
 O = '\033[0;33m' # Orange
 B = '\033[1;34m' #Blue
 time.sleep(1)
-os.system("cd banner;python2 banner.py")
+os.system("cd banner;python2 banner2.py")
 print
 print
 print ""+N+"       =[ "+O+"DarkSploit v.1 by Deray"+N+"                                         ]"
