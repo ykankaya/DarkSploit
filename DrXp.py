@@ -3,7 +3,6 @@ import os
 import time
 import sys
 import os as sistema
-sistema.system('cls' if sistema.name == 'nt' else 'reset')
 # Set color
 R = '\033[31m' # Red
 N = '\033[1;37m' # White
