@@ -6,6 +6,9 @@ cocok sekali buat para defacer xd
 <br>
 selain itu tools ini juga bisa dijalankan diandroid,malah sengaja buat tools ini untuk di jalankan diandroid:)
 <br>
+oh iya,btw tools ini kurang work kalo dijalanin ditermux jadi ada agak sedikit problem:)
+<br>
+<br>
 next tutorial.
 <br>
 <br>
