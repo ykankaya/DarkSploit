@@ -741,7 +741,7 @@ elif dr == "darksploit update":
 	print
 	print ""+N+"cloning newly updated..."
 	time.sleep(5)
-	os.system("cd ..;rm -rf DarkSploit;git clone https://github.com/LOoLzeC/DarkSploit;cd ..;cd DarkSploit;python2 DrXp.py")
+	os.system("cd ..;rm -rf DarkSploit;git clone https://github.com/LOoLzeC/DarkSploit;cd DarkSploit;python2 DrXp.py")
 elif dr == "show exploits":
 	print ""+N+""
 	print " EXPLOIT"
