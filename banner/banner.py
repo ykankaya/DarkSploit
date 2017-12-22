@@ -23,6 +23,3 @@ print "     YOU DIDN'T SAY THE MAGIC WORD!"
 print "     YOU DIDN'T SAY THE MAGIC WORD!"
 print "     YOU DIDN'T SAY THE MAGIC WORD!"
 print "     YOU DIDN'T SAY THE MAGIC WORD!"
-print
-print 
-print
