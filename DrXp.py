@@ -9,7 +9,7 @@ N = '\033[1;37m' # White
 G = '\033[32m' # Green
 O = '\033[0;33m' # Orange
 B = '\033[1;34m' #Blue
-os.system("cd banner;python2 banner4.py")
+os.system("cd banner;python2 banner5.py")
 print
 print
 print ""+N+"       =[ "+O+"DarkSploit v.2 by Deray"+N+"                        ]"
