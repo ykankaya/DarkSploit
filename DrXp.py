@@ -9,7 +9,7 @@ N = '\033[1;37m' # White
 G = '\033[32m' # Green
 O = '\033[0;33m' # Orange
 B = '\033[1;34m' #Blue
-os.system("cd banner;python2 banner1.py")
+os.system("cd banner;python2 banner3.py")
 print ""+N+"       =[ "+O+"DarkSploit v.2 by Deray"+N+"                                         ]"
 print "+ -- --=[ 13 Exploits - 10 Scanners 13 post - 25 virus                    ]"
 print "+ -- --=[ Blog http://zumizec-com.waper.co/ "+N+"- Reports ig @yungreyyxrist   ]"
