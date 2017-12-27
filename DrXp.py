@@ -13,7 +13,7 @@ os.system("cd banner;python2 banner4.py")
 print
 print
 print ""+N+"       =[ "+O+"DarkSploit v.2 by Deray"+N+"                        ]"
-print "+ -- --=[ 14 Exploits - 10 Scanners 16 post - 38 virus   ]"
+print "+ -- --=[ 14 Exploits - 10 Scanners 26 post - 38 virus   ]"
 print "+ -- --=[ Blog http://zumizec-com.waper.co/ "+N+"             ]"
 print "+ -- --=[ Report Bug On Instagram "+R+"@yungreyyxrist   "+N+"      ]"
 print
