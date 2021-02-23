@@ -21,7 +21,7 @@ def help():
 		print ""+N+""
 		print " Global Options"
 		print " =============="
-		print
+		print " Made By Joker Hack 
 		print "  Name                     Description"
 		print "----------             ------------------"
 		print "show exploits          Look this exploits"
